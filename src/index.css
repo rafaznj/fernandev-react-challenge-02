@@ -94,3 +94,13 @@ input:focus {
   padding: 10px 15px;
   border-radius: 6px;
 }
+.successMessage {
+  color: green;
+  display: block;
+  background: rgba(1, 255, 1, 0.156);
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 15px;
+  padding: 10px 15px;
+  border-radius: 6px;
+}
